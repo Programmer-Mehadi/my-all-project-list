@@ -1,4 +1,12 @@
+
+
 # my-all-project-list" 
+
+0. Group-Project(4 member - my-branch(Mehadi)): https://news-71-f8a9f.web.app/
+   
+   https://github.com/SaifullaJubair/News-71
+   
+   https://github.com/SaifullaJubair/news-71-server
 
 1. codelink: https://github.com/Programmer-Mehadi/color-plate-generator 
 
